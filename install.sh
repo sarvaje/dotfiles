@@ -8,3 +8,5 @@ mv ~/tmpgitconfig ~/.gitconfig
 cat ~/.zshrc ~/dotfiles/.zshrc > ~/tmpzshrc
 mv ~/tmpzshrc ~/.zshrc
 
+# Install needed gems
+sudo gem install solargraph
