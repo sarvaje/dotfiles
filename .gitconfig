@@ -243,3 +243,5 @@
     #                     │        └─ decorations (branch, heads or tags)
     #                     └─ hash (abbreviated)
 
+[core]
+    editor = vim
